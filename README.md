@@ -1,5 +1,5 @@
 # BoneAgeAssessment
-Two ML models that automate bone age assessment (BAA):    
+Two machine learning models that automate bone age assessment (BAA):    
 SVM.py: support-vector regression model  
 CNN.py: convolutional neural network model  
 
